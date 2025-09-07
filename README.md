@@ -1,6 +1,11 @@
 # RASA-CHATBOT-PROJECT
 🤖💬 Project Milestone: Rasa Chatbot Implementation in Python! 💬🤖
 
+Libraries used in this project:
+Rasa – Core framework for NLU & Dialogue Management
+NLTK – For text preprocessing and linguistic analysis
+pandas & numpy – For handling training datasets efficiently
+
 Excited to share my recent project on Rasa Chatbot development as part of my Machine Learning journey. 
 
 This chatbot was built using Python + Rasa framework, focusing on:
